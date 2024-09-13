@@ -1,4 +1,4 @@
-# *CSnnn Project Name*
+# *AR/WebXR Project*
 ## **Sponsor:**
 
 **Students' Names:**
