@@ -1,5 +1,7 @@
 # *CS 25-031 AR/WebXR for Public Engagement*
 
+Week 1 & 2
+
 **Students' Names:**
 Adonias Daniel
 Ankita Sahu
