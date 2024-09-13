@@ -21,6 +21,6 @@ a better understanding of the problems you encountered during the development of
 - *Technical Advisor Name* - *Company Affliation* - Technical Advisor
 - *Faculty Advisor's Name* - *Department* - Faculty Advisor
 - *Adonias Daniel* - *Computer Science: Software Engineering Concentration* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
+- *Ankita Sahu* - *Computer Science* - Student Team Member
 - *Student's Name* - *major* - Student Team Member
 - *Student's Name* - *major* - Student Team Member
