@@ -1,21 +1,29 @@
-# *CS 25-XXX Project Name*
+# *CS 25-031 AR/WebXR for Public Engagement*
 
 **Students' Names:**
+Adonias Daniel
+Ankita Sahu
+Santiago Blanco 
+Andre Smith 
 
-**Mentor:**
+**Sponser:**
+Cassie Bowman
 
 **Faculty Advisor:**
+Rodrigo Spinola
 
 ## 1) Accomplishments this week ##
-   - investigate databases done by student A
-   - make flowcharts done by students A and B
+   - Met as a team and with the advisor and sponser
+   - The team created the github repo and added templates
+   - We added information into the github templates and are finishing assignemnt 1
 
 ## 2) Milestones to be completed next week ##
-   - debug the code to be performed by student C
+   - Study the psyche mission
+   - Brainstorm ideas for expiernces in AR/WebXR
+   - Learn A-Frame to have a better idea of AR/WebXR
 
 ## 3) Issues, problems or concerns ##
-   - student C needs to learn java
-   - database repository costs big $$$
+   - No issues to report!
    
 
 
