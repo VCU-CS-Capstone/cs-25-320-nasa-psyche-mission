@@ -1,4 +1,4 @@
-# *Your Project Description*
+# *AR/WebXR for Public Engagement*
 ## *Sponsoring Company: NASA*
 ## *Short Project Description*
 The directory structure in this GitHub is to allow the project to have all its resources self-contained.
@@ -21,6 +21,6 @@ a better understanding of the problems you encountered during the development of
 - *Technical Advisor Name* - *Company Affliation* - Technical Advisor
 - *Faculty Advisor's Name* - *Department* - Faculty Advisor
 - *Adonias Daniel* - *Computer Science: Software Engineering Concentration* - Student Team Member
-- *Ankita Sahu* - *Computer Science* - Student Team Member
+- *Ankita Sahu* - *Computer Science, Mathmatics Minor* - Student Team Member
 - *Student's Name* - *major* - Student Team Member
 - *Student's Name* - *major* - Student Team Member
