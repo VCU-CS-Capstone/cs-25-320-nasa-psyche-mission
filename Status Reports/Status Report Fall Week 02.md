@@ -15,7 +15,6 @@ Cassie Bowman
 Rodrigo Spinola
 
 ## 1) Accomplishments this week ##
-   - Met as a team and with the advisor and sponser
    - The team created the github repo and added templates
    - We added information into the github templates and are finishing assignemnt 1
 
