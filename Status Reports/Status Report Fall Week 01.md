@@ -1,6 +1,6 @@
 # *CS 25-031 AR/WebXR for Public Engagement*
 
-Week 1 & 2
+Week 1
 
 **Students' Names:**
 Adonias Daniel
@@ -15,15 +15,15 @@ Cassie Bowman
 Rodrigo Spinola
 
 ## 1) Accomplishments this week ##
-   - Met as a team and with the advisor and sponser
-   - The team created the github repo and added templates
-   - We added information into the github templates and are finishing assignemnt 1
+   - Met as a team and with the advisor and sponsor
+   - Set up a discord as our means of communication
+   - Established roles for each team member based on their strengths
+   - Set goals to complete for next week as a team
 
 ## 2) Milestones to be completed next week ##
-   - Study the psyche mission
-   - Brainstorm ideas for expiernces in AR/WebXR
-   - Learn A-Frame to have a better idea of AR/WebXR
-
+   -Create a Github Repository for project
+   -Fill information based on templates provided
+   
 ## 3) Issues, problems or concerns ##
    - No issues to report!
    
