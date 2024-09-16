@@ -21,8 +21,8 @@ Rodrigo Spinola
    - Set goals to complete for next week as a team
 
 ## 2) Milestones to be completed next week ##
-   -Create a Github Repository for project
-   -Fill information based on templates provided
+   - Create a Github Repository for project
+   - Fill information based on templates provided
    
 ## 3) Issues, problems or concerns ##
    - No issues to report!
