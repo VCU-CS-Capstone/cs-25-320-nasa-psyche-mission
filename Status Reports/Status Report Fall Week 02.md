@@ -1,6 +1,6 @@
 # *CS 25-031 AR/WebXR for Public Engagement*
 
-Week 1
+Week 2
 
 **Students' Names:**
 Adonias Daniel
