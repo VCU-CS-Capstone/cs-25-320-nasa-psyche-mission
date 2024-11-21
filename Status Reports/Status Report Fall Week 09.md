@@ -29,5 +29,3 @@ Rodrigo Spinola
 
 ---
 
-# *CS 25-031 AR/WebXR for Public Engagement*
-
