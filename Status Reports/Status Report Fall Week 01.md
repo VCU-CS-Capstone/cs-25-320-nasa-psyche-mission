@@ -8,7 +8,7 @@ Adonias Daniel,
 Ankita Sahu, 
 Andre Smith 
 
-**Sponser:**
+**Sponsor:**
 Cassie Bowman
 
 **Faculty Advisor:**
@@ -26,6 +26,3 @@ Rodrigo Spinola
    
 ## 3) Issues, problems or concerns ##
    - No issues to report!
-   
-
-
