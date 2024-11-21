@@ -14,7 +14,7 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 1 Status Report | Study the Psyche mission, finish up github repo | Met as a team and with advisor, established meeting days| No problems to report! |
 | Week 2 Status Report | Complete github repo, brainstorm ideas for project | Met with sponsor, created a clear plan to follow | No problems to report! |
 | Week 3 Status Report | Work on Team Contract, Continued to brainstorm ideas | Completed Team Contract, Wrote down project ideas to vote | No problems to report!|
-| Week 4 Status Report | | | |
+| Week 4 Status Report | Vote on 3 ideas for project, Present ideas to advisor | Picked our three AR / VR experiences, Presented to advisor| No problems to report!|
 | Week 5 Status Report | | | |
 | Week 6 Status Report | | | |
 | Week 7 Status Report | | | |
