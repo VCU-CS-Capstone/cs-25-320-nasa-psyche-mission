@@ -3,9 +3,9 @@
 Week 1
 
 **Students' Names:**
-Adonias Daniel
-Ankita Sahu
-Santiago Blanco 
+Santiago Blanco, 
+Adonias Daniel, 
+Ankita Sahu, 
 Andre Smith 
 
 **Sponser:**
