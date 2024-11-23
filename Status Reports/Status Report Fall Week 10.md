@@ -3,10 +3,7 @@
 Week 10
 
 **Students' Names:**
-Santiago Blanco,  
-Adonias Daniel,  
-Ankita Sahu,  
-Andre Smith  
+Santiago Blanco, Adonias Daniel, Ankita Sahu, Andre Smith  
 
 **Sponsor:**
 Cassie Bowman  
