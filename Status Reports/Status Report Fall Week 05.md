@@ -24,4 +24,4 @@ Rodrigo Spinola
    - Order headsets
 
 ## 3) Issues, problems or concerns ##
-   - No issues!
+   - Minor delays compiling proposal sections
