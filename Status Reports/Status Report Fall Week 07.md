@@ -12,11 +12,12 @@ Cassie Bowman
 Rodrigo Spinola
 
 ## 1) Accomplishments this week ##
-   - 
+   - Received Quest 2 and Quest Mini headsets for testing
+   - Continued poster work, prototype finished 
 
 ## 2) Milestones to be completed next week ##
-   - 
+   - Start hardware testing for testing on capabilities
 
 ## 3) Issues, problems or concerns ##
-   - No issues to report!
+   - Minor delays due to headset setup
 
