@@ -23,4 +23,4 @@ Rodrigo Spinola
    - Begin headset testing
 
 ## 3) Issues, problems or concerns ##
-   - No issues to report!
+   - Coordination issues for poster content
