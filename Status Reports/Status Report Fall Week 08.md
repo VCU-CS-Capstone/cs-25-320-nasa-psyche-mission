@@ -12,12 +12,13 @@ Cassie Bowman
 Rodrigo Spinola
 
 ## 1) Accomplishments this week ##
-   - 
+   - Integrated research findings into the poster draft
 
 ## 2) Milestones to be completed next week ##
-   - 
+   - Finalize poster content
+   - Prepare for submission
 
 ## 3) Issues, problems or concerns ##
-   - No issues to report!
+   - Challenges aligning schedules for poster input
 
 
